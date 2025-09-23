@@ -1,0 +1,43 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+env/
+.env
+.env.*
+.envrc
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local STARLINK tree (not source-controlled)
+star-2023A/
+
+# Trash and large scratch
+trash/
+old/
+
+# Logs and misc
+*.log
+*.numbers
+
+vgt/
+data/.DS_Store
+data/**/.DS_Store
+
+*.sdf
+*.fits

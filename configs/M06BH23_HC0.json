@@ -1,0 +1,9 @@
+{
+    "programID": "M06BH23_HC0",
+    "fits_file": "*reduced*.fits",
+    "subblock_size": 10,
+    "noise_multiplier": 1,
+    "frequency_range": [356.818, 356.81],
+    "velocity_range": [-59.7573, -53.1919],
+    "noise_range": [-322.783, -81.9155]
+}

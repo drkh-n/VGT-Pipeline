@@ -1,0 +1,12 @@
+{
+  "Pixel sum": 7520.73,
+  "Pixel mean": 0.806513,
+  "Standard deviation": 0.394528,
+  "Skewness": 0.910874,
+  "Kurtosis": 3.45619,
+  "Minimum pixel value": 0.481635,
+  "Maximum pixel value": 2.59339,
+  "Total number of pixels": 9506,
+  "Number of pixels used": 9325,
+  "No. of pixels excluded": 181
+}
